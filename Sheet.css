@@ -1,0 +1,21 @@
+body {
+  background-color: red;
+
+}
+.Navbar  {
+  background-color: green;
+}
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color:  blue;
+  color: black;
+  cursor: pointer;
+}
+.ulnavbar {
+  background-color: brown;
+}
+.linavbar {
+  
+  border: 1px solid black;
+}
